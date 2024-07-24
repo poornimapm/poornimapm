@@ -8,11 +8,10 @@ I am continuously learning and exploring new tools and technologies to enhance m
 - 👯 I’m looking to collaborate on backend app
 - 📫 How to reach me: poornimapm1999@gmail.com
 
-  https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Angular%2CAngular%2Cf941fd%3B
   
-  [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Angular%2CAngular%2Cf941fd%3B)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=Angular%2CAngular%2Cd73bf7%3BHTML5%2CHTML5%2Ce95353%3BCSS3%2CCSS3%2C3d3cf7%3Btypescript%2Ctypescript%2C7174cf%3Bjavascript%2Cjavascript%2Cfcac18%3BNode.js%2CNode.js%2C9a9f22%3Bex%2Cexpress.js%2Cc64545%3Bnpm%2Cnpm%2Ce13737%3Bmongodb%2Cmongodb%2Cc2ce9f%3Bpostgresql%2Cpostgresql%2C9040f3%3Bmysql%2Cmysql%2C69dd2a%3Bpostman%2Cpostman%2Cf39d9d%3Bgit%2Cgit%2Cd3fd26%3Bpython%2Cpython%2Ca7ffa1%3Bflask%2Cflask%2Ce60b73%3Bsass%2Csass%2C0147c6%3BAngular+material%2CAngular+material%2C584e22%3BAnt+Design%2CAnt+Design%2Cd01af8%3Bbootstrap%2Cbootstrap%2Cc59898%3B)
 
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Angular%2CAngular%2Cf941fd%3B" alt="My Tech Stack" />
+
 
 <!--
 **poornimapm/poornimapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
