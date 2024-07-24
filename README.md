@@ -8,6 +8,12 @@ I am continuously learning and exploring new tools and technologies to enhance m
 - 👯 I’m looking to collaborate on backend app
 - 📫 How to reach me: poornimapm1999@gmail.com
 
+  https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Angular%2CAngular%2Cf941fd%3B
+  
+  [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Angular%2CAngular%2Cf941fd%3B)
+
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=Angular%2CAngular%2Cf941fd%3B" alt="My Tech Stack" />
+
 <!--
 **poornimapm/poornimapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
