@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a passionate software professional with a knack for crafting efficient and scalable web applications. Over the past 4 years, I have honed my skills in both frontend and backend development, specializing in technologies such as Angular, JavaScript, typescript, Node.js, MongoDB, and Express.js HTML, CSS. My experience spans a range of projects, from developing innovative solutions to delivering complex applications. My goal is always to build applications that are not only functional but also offer an intuitive and seamless user experience.
+I'm a dedicated software developer with a passion for building efficient and scalable web applications. Over the past 4 years, I've developed expertise in both frontend and backend technologies, including Angular, JavaScript, TypeScript, Node.js, MongoDB, Express.js, HTML, and CSS. My experience includes a diverse range of projects, from creating innovative solutions to delivering complex applications. I strive to build not only functional but also user-friendly applications that provide a seamless and intuitive experience.
 
 I am continuously learning and exploring new tools and technologies to enhance my skill set and stay ahead in the fast-evolving tech landscape.
 
@@ -9,7 +9,21 @@ I am continuously learning and exploring new tools and technologies to enhance m
 - 📫 How to reach me: poornimapm1999@gmail.com
 
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=Angular%2CAngular%2Cd73bf7%3BHTML5%2CHTML5%2Ce95353%3BCSS3%2CCSS3%2C3d3cf7%3Btypescript%2Ctypescript%2C7174cf%3Bjavascript%2Cjavascript%2Cfcac18%3BNode.js%2CNode.js%2C9a9f22%3Bex%2Cexpress.js%2Cc64545%3Bnpm%2Cnpm%2Ce13737%3Bmongodb%2Cmongodb%2Cc2ce9f%3Bpostgresql%2Cpostgresql%2C9040f3%3Bmysql%2Cmysql%2C69dd2a%3Bpostman%2Cpostman%2Cf39d9d%3Bgit%2Cgit%2Cd3fd26%3Bpython%2Cpython%2Ca7ffa1%3Bflask%2Cflask%2Ce60b73%3Bsass%2Csass%2C0147c6%3BAngular+material%2CAngular+material%2C584e22%3BAnt+Design%2CAnt+Design%2Cd01af8%3Bbootstrap%2Cbootstrap%2Cc59898%3B" alt="My Tech Stack" />
+# Education:
+B.E. - Electronics And Communication Engineering (2016-2020)
+ 
+The National Institute of Engineering,Mysore
+ 
+GPA - 8.8
+ 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornima-p-m-274b82152/)
+ 
+# 💻 Tech Stack:
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Angular</title><path d="M16.712 17.711H7.288l-1.204 2.916L12 24l5.916-3.373-1.204-2.916ZM14.692 0l7.832 16.855.814-12.856L14.692 0ZM9.308 0 .662 3.999l.814 12.856L9.308 0Zm-.405 13.93h6.198L12 6.396 8.903 13.93Z"/></svg>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1)
+ 
 
 <!--
 **poornimapm/poornimapm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
