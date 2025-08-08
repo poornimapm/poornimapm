@@ -1,9 +1,9 @@
 ## Hi there 👋
-I'm a dedicated software developer with a passion for building efficient and scalable web applications. Over the past 4 years, I've developed expertise in both frontend and backend technologies, including Angular, JavaScript, TypeScript, Node.js, MongoDB, Express.js, HTML, and CSS. My experience includes a diverse range of projects, from creating innovative solutions to delivering complex applications. I strive to build not only functional but also user-friendly applications that provide a seamless and intuitive experience.
+I'm a dedicated software developer with a passion for building efficient and scalable web applications. Over the past 5 years, I've developed expertise in both frontend and backend technologies, including React, Angular, JavaScript, TypeScript, Node.js, MongoDB, Express.js, HTML, and CSS. My experience includes a diverse range of projects, from creating innovative solutions to delivering complex applications. I strive to build not only functional but also user-friendly applications that provide a seamless and intuitive experience.
 
 I am continuously learning and exploring new tools and technologies to enhance my skill set and stay ahead in the fast-evolving tech landscape.
 
-- 🔭 I’m currently working on Angular, nodeJS, ExpressJS
+- 🔭 I’m currently working on React, Angular, nodeJS, ExpressJS
 - 🌱 I’m currently learning postgresql
 - 👯 I’m looking to collaborate on backend app
 - 📫 How to reach me: poornimapm1999@gmail.com
